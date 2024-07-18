@@ -1,7 +1,7 @@
 ---
 title: "post init"
 date: 2024-07-18T22:36:24+09:00
-draft: true # Set 'false' to publish
+draft: false # Set 'false' to publish
 tableOfContents: false # Enable/disable Table of Contents
 description: ''
 categories:
