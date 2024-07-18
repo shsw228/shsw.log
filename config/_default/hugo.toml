@@ -1,0 +1,27 @@
+baseURL = 'http://example.org/'
+# baseURL = 'https://shsw228.github.io/shsw.log'
+copyright = "{year}" # To make 2007 - 2022. Just add before {year} example: 2007 - {year}
+languageCode = 'ja'
+defaultContentLanguage = 'ja'
+theme = 'enchanted-lowkey'
+title = 'Logger.log("shsw228")'
+enableRobotsTXT = true
+summaryLength = 15
+paginate = 5
+
+
+[markup]
+  [markup.highlight]
+    anchorLineNos = false
+    codeFences = true
+    guessSyntax = false
+    hl_Lines = ''
+    hl_inline = false
+    lineAnchors = ''
+    lineNoStart = 1
+    lineNos = false
+    lineNumbersInTable = false
+    noClasses = true
+    noHl = false
+    style = 'dracula'
+    tabWidth = 4
