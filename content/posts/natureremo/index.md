@@ -1,7 +1,7 @@
 ---
 title: "Nature-RemoのローカルAPIを常用するには"
 date: 2024-08-01T23:06:21+09:00
-draft: true # Set 'false' to publish
+draft: false # Set 'false' to publish
 tableOfContents: false # Enable/disable Table of Contents
 description: ''
 categories:
